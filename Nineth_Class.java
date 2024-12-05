@@ -2,6 +2,7 @@
 //(color is Brown: don't said to interviewer just understanding purpose)
 //UPDATE the value of a local variable program.????
 //a,b variable are declared inside the main method caled LOCAL VARIABLES.
+//outside main and inside class Global variables
 package first_package;
 
 public class Nineth_Class {
